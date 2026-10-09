@@ -1,0 +1,23 @@
+# C++ build outputs
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+*.pch
+*.gch
+
+# Build directories
+build/
+out/
+Debug/
+Release/
+x64/
+
+# VS Code local state
+.vscode/*
+!.vscode/extensions.json
+
+# Common generated files
+*.log
